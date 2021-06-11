@@ -2,7 +2,7 @@
 ### <p align="center">🧠 &nbsp;Moi</p>
 <br>
 <p align="center">
-  J'ai 16 ans, j'apprends le développement et la cybersécurité 🙂
+  Salut bg
   <br>
   <br>
   <br>
@@ -10,11 +10,11 @@
   <br>
   <br>
   <br>
-  <a href="https://youtube.com/c/leloupalpha">📺 Ma chaîne YouTube 📺</a>
+  <a href="https://youtube.com/c/ennooffi">📺 Ma chaîne YouTube 📺</a>
   <br>
-  <a href="https://discord.gg/CURjqNd6rs">💬 Mon serveur Discord 💬</a>
+  <a href="https://discord.gg/AYHBaFMHUB">💬 Mon serveur Discord 💬</a>
   <br>
-  <a href="https://discord.com/api/oauth2/authorize?client_id=838405549510230026&permissions=8&scope=bot">☢ Mon Bot Discord ☢</a>
+  <a href="https://discord.com/api/oauth2/authorize?client_id=834893997398687744&permissions=8&scope=bot">☢ Mon Bot Discord ☢</a>
   <br>
 </p>
 
@@ -22,10 +22,8 @@
 ### <p align="center">🏆 &nbsp;Mes Compétences</p>
 <br>
 <p align="center">
-  🐍 J'apprends le Python depuis 3 mois 🐍
+  🐍 Je suis débutant en discord.js 🐍
   <br>
-  <br>
-  🔐 J'apprends la Cybersécurité pour pouvoir me protéger sur Internet(ou pas ;D ) 🔐
   <br>
   <br>
 </p>
@@ -47,9 +45,9 @@
 -----
 ### <p align="center">📞 &nbsp;Contact</p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/748683930559053874.png">
+  <img src="https://discord.c99.nl/widget/theme-3/734816112985768038.png">
   <br>
- leloupalpha2@gmail.com
+ minecraftennocontact@gmail.com
 </p>
 
 
@@ -57,9 +55,9 @@
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
-<a href="https://github.com/le-loup-alpha">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=le-loup-alpha&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=le-loup-alpha&layout=compact&langs_count=8&theme=react&locale=fr"/>
+<a href="https://github.com/minecraftenno">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minecraftenno&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minecraftenno&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
   
 </p>
@@ -69,7 +67,7 @@
 ### <p align="center">👀 &nbsp;Visiteurs</p>
 <br>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/le-loup-alpha/count.svg" />
+  <img src="https://profile-counter.glitch.me/minecraftenno/count.svg" />
 </p>
 <br>
 
